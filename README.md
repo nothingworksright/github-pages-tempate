@@ -1,2 +1,3 @@
-# github-pages-tempate
-🌐 GitHub Pages repository template
+# github-pages-tempate  
+
+🌐 GitHub Pages repository template.  
